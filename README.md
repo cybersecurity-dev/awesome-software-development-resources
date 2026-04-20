@@ -1,2 +1,1 @@
-# awesome-software-development-resources
-Awesome Software Development Resources
+# Awesome Software Development Resources
