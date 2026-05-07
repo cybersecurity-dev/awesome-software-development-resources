@@ -22,6 +22,8 @@
 - [Contributors](#contributors)
 
 ## Books
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B0FPFZTZYY)
+- [Design Patterns: Elements of Reusable Object-Oriented Software ](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2)
 
 ##
