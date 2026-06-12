@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** Software Development Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Software](https://wikipedia.org/wiki/Software_engineering) [Development](https://wikipedia.org/wiki/Software_development) Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
@@ -30,6 +30,7 @@
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6)
 
 ## Videos
+- [The Philosophy of Software Design – with John Ousterhout](https://youtu.be/lz451zUlF-k?si=2rf8gAybaMj3JMxs)
 
 ##
 
@@ -41,5 +42,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-software-development-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-software-development-resources-)
