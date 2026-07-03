@@ -24,6 +24,7 @@
 - [Contributors](#contributors)
 
 ## Books
+- [Art of Computer Programming by Donald Knuth](https://www.amazon.com/Computer-Programming-Volumes-1-4B-Boxed/dp/0137935102/)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B0FPFZTZYY)
 - [Design Patterns: Elements of Reusable Object-Oriented Software ](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2)
