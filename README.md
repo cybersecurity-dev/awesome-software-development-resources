@@ -31,6 +31,7 @@
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6)
 
 ## Videos
+- [Designing for Performance • GOTO 2015 by Martin Thompson](https://www.youtube.com/watch?v=fDGWWpHlzvw)
 - [The Philosophy of Software Design – with John Ousterhout](https://youtu.be/lz451zUlF-k?si=2rf8gAybaMj3JMxs)
 
 ##
