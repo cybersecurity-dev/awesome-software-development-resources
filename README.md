@@ -29,6 +29,8 @@
 - [Design Patterns: Elements of Reusable Object-Oriented Software ](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2)
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6)
+- [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- [The Pragmatic Programmer: Your Journey To Mastery](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
 ## Videos
 - [Designing for Performance • GOTO 2015 by Martin Thompson](https://www.youtube.com/watch?v=fDGWWpHlzvw)
